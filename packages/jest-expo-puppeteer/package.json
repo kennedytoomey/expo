@@ -29,7 +29,7 @@
     "getenv": "^1.0.0",
     "jest": "^26.6.3",
     "jest-puppeteer": "^5.0.4",
-    "serve": "^11.3.0",
+    "serve": "^14.1.0",
     "xdl": "^59.2.35"
   },
   "peerDependencies": {
