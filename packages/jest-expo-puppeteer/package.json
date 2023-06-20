@@ -27,10 +27,10 @@
   "dependencies": {
     "@expo/config": "~7.0.0",
     "getenv": "^1.0.0",
-    "jest": "^26.6.3",
+    "jest": "^27.0.0",
     "jest-puppeteer": "^5.0.4",
     "serve": "^11.3.0",
-    "xdl": "^59.2.35"
+    "xdl": "^60.0.0"
   },
   "peerDependencies": {
     "puppeteer": "*"
