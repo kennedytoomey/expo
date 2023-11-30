@@ -42,7 +42,7 @@
     "find-up": "^5.0.0",
     "find-yarn-workspace-root": "~2.0.0",
     "npm-package-arg": "^7.0.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "split": "^1.0.1",
     "sudo-prompt": "9.1.1"
   },
