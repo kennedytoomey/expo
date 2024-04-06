@@ -25,7 +25,7 @@
     "**/util": "~0.12.4"
   },
   "dependencies": {
-    "eslint": "^8.20.0",
+    "eslint": "^9.0.0",
     "expo-yarn-workspaces": "*",
     "jsc-android": "^245459.0.0",
     "prettier": "^2.7.1",
